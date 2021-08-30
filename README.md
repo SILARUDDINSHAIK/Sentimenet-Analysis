@@ -1,5 +1,4 @@
 # Sentiment-Analysis
 
-Sentiment Analysis: To determine whether the reviews of the yelp reviews dataset is positive or negative using Transformers.
-Pretrained model used in this jupyter notebook is bert-base-cased.
-The Saved Model can further used for sentiment analysis.
+Sentiment Analysis: Sentiment analysis is a technique through which we can analyze a piece of text to determine the sentiment behind it. It combines machine learning and natural language processing (NLP) to achieve this. Using basic Sentiment analysis, a program can understand if the sentiment behind a piece of text is positive, negative, or neutral.
+
